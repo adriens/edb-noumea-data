@@ -1,0 +1,46 @@
+name: Mise à jour quotidienne des données de baignade
+
+on:
+  # Permet de lancer le workflow manuellement depuis l'onglet "Actions" de GitHub
+  workflow_dispatch:
+
+  # Planifie l'exécution tous les jours à 5h00 UTC
+  schedule:
+    - cron: '0 5 * * *'
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Récupère le code de votre dépôt
+      - name: Checkout du dépôt
+        uses: actions/checkout@v4
+
+      # 2. Met en place l'environnement Python
+      - name: Mise en place de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' # Vous pouvez choisir une autre version
+
+      # 3. Met en place uv
+      - name: Mise en place de uv
+        uses: astral-sh/setup-uv@v1
+
+      # 4. Installe les dépendances listées dans requirements.txt
+      - name: Installation des dépendances
+        run: uv pip install -r requirements.txt
+
+      # 5. Exécute le script Python pour générer les fichiers CSV
+      - name: Exécution du script de mise à jour
+        run: python update_data.py
+
+      # 6. Commit et pousse les fichiers CSV mis à jour
+      - name: Commit des fichiers de données
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Mise à jour automatique des données de baignade"
+          # Spécifie de ne commit que les fichiers dans le dossier data
+          file_pattern: data/*.csv
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
