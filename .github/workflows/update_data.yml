@@ -17,15 +17,11 @@ jobs:
       - name: Checkout du dépôt
         uses: actions/checkout@v4
 
-      # 2. Met en place l'environnement Python
-      - name: Mise en place de Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11' # Vous pouvez choisir une autre version
-
-      # 3. Met en place uv
+      # 2. Met en place uv et Python
       - name: Mise en place de uv
         uses: astral-sh/setup-uv@v1
+        with:
+          python-version: '3.11'
 
       # 4. Installe les dépendances listées dans requirements.txt
       - name: Installation des dépendances
