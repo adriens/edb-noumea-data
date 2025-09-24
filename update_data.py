@@ -1,6 +1,7 @@
 import os
 import pandas as pd
-from edb_noumea.main import get_water_quality, get_detailed_results
+from edb_noumea.main import get_water_quality
+from edb_noumea.details import get_detailed_results
 
 def run_update():
     """
