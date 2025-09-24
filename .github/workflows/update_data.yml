@@ -23,13 +23,17 @@ jobs:
         with:
           python-version: '3.11'
 
+      # 3. Création de l'environnement virtuel
+      - name: Création de l'environnement virtuel
+        run: uv venv
+
       # 4. Installe les dépendances listées dans requirements.txt
       - name: Installation des dépendances
         run: uv pip install -r requirements.txt
 
       # 5. Exécute le script Python pour générer les fichiers CSV
       - name: Exécution du script de mise à jour
-        run: python update_data.py
+        run: uv run python update_data.py
 
       # 6. Commit et pousse les fichiers CSV mis à jour
       - name: Commit des fichiers de données
