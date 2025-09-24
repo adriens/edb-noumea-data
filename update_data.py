@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-from edb_noumea import main, details
+from edb_noumea.main import get_water_quality, get_detailed_results
 
 def run_update():
     """
@@ -10,8 +10,8 @@ def run_update():
 
     # Assurez-vous que ces noms de fonction (get_resume, get_details)
     # correspondent bien à ceux de votre module.
-    resume_df = main.get_resume()
-    details_df = details.get_details()
+    resume_df = get_water_quality()
+    details_df = get_detailed_results()
 
     print("Dataframes générés avec succès.")
 
