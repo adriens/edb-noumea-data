@@ -1,18 +1,23 @@
 site,point_de_prelevement,date,heure,e_coli_npp_100ml,enterocoques_npp_100ml,id_point_prelevement,desc_point_prelevement
-Nom du site de baignade,Point de prélèvement,,Heure duprélèvement,,,Point de prélèvement,
-PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-10-20,07:08,144,213,P18049,Face The Beach House
-PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-10-20,07:13,171,613,P18050,Face allée centrale Mirage plaza
-PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-10-20,07:23,84,30,P18141,Face la Guinche
-PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-10-20,07:29,288,52,P18053,Face Fun Beach (milieu de plage)
-PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-10-20,07:33,512,134,P18054,Face Burger king
-PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-10-20,07:39,275,122,P18055,Face Communauté du Pacifique
-PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-10-20,07:50,450,52,P18056,Face Nouvata Park hotel
-PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-10-20,08:15,328,166,P18057,Face escalier d'accès
-PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-10-20,08:10,148,20,P18058,Face piscine Royal Tera Hotel
-PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2025-10-09,07:53,85,10,P18059,anse des Hobie Cats (milieu)
-PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2025-10-16,08:08,75,10,P18060,anse de la pointe (milieu)
-PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2025-10-02,07:54,109,10,P18061,anse de l'école de voile (milieu)
-PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-10-20,08:38,24196,14136,P18031,Face douche Lions Club
-PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-10-20,08:47,4611,768,P18032,Face bout de piste aérodrome
-PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-10-20,08:55,98,10,P18043,Face Les Hélices
-PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-10-16,08:34,189,10,P18048,Face entrée du Kuendu Beach
+,,,nan,,,,
+Nom du site de baignade,Point de prélèvement,,coli,,,Point de prélèvement,
+,,,nan,,,,
+,,,(NPP/100ml),,,,
+,"P18049, face The Beach House",2025-10-20,144,144,213,P18049,face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, face allée centrale Mirage Plaza",2025-10-20,171,171,613,P18050,face allée centrale Mirage Plaza
+,"P18141, face La Guinche",2025-10-20,84,84,30,P18141,face La Guinche
+,"P18053, face Fun Beach (milieu de plage)",2025-10-20,288,288,52,P18053,face Fun Beach (milieu de plage)
+,"P18054, face Burger King",2025-10-20,512,512,134,P18054,face Burger King
+PLAGE DE L'ANSE VATA,,,nan,,,,
+,"P18055, face Communauté du Pacifique",2025-10-20,275,275,122,P18055,face Communauté du Pacifique
+,"P18056, face Nouvata Park Hotel",2025-10-20,450,450,52,P18056,face Nouvata Park Hotel
+,"P18057, face escalier d'accès plage",2025-10-20,328,328,166,P18057,face escalier d'accès plage
+PLAGE DE LA POINTE MAGNIN,,,nan,,,,
+,"P18058, face piscine Hotel Château Royal",2025-10-20,148,148,20,P18058,face piscine Hotel Château Royal
+,"P18059, anse des Hobie Cats (milieu)",2025-10-09,85,85,10,P18059,anse des Hobie Cats (milieu)
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2025-10-16,75,75,10,P18060,anse de la pointe (milieu)
+,"P18061, anse de l'école de voile (milieu)",2025-10-02,109,109,10,P18061,anse de l'école de voile (milieu)
+,"P18031, face douche du Lions Club",2025-10-21,480,480,473,P18031,face douche du Lions Club
+PLAGE DE MAGENTA,"P18032, face bout de piste aérodrome",2025-10-21,583,583,63,P18032,face bout de piste aérodrome
+,"P18043, face les Hélices",2025-10-21,52,52,10,P18043,face les Hélices
+PLAGE DU KUENDU BEACH,"P18048, face entrée du Kuendu Beach",2025-10-16,189,189,10,P18048,face entrée du Kuendu Beach
