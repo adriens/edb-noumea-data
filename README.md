@@ -1,3 +1,6 @@
+[![PyPI version](https://img.shields.io/pypi/v/edb-noumea.svg?label=edb-noumea&logo=pypi)](https://pypi.org/project/edb-noumea/)
+
+
 # Données sur la Qualité des Eaux de Baignade à Nouméa
 
 Ce dépôt contient les données sur la qualité des eaux de baignade pour les plages de Nouméa. Les données sont collectées et mises à jour automatiquement.
