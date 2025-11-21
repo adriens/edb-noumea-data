@@ -1,4 +1,5 @@
 [![PyPI version](https://img.shields.io/pypi/v/edb-noumea.svg?label=edb-noumea&logo=pypi)](https://pypi.org/project/edb-noumea/)
+[![Go BubbleTea TUI](https://img.shields.io/badge/Go-BubbleTea%20TUI-00ADD8?logo=go)](https://github.com/adriens/edb-noumea-tui)
 
 
 # Données sur la Qualité des Eaux de Baignade à Nouméa
