@@ -9,26 +9,27 @@ def run_update():
     """
     print("Génération des dataframes...")
 
-    # Assurez-vous que ces noms de fonction (get_resume, get_details)
-    # correspondent bien à ceux de votre module.
-    resume_df = get_water_quality()
-    details_df = get_detailed_results()
-
-    print("Dataframes générés avec succès.")
-
     # Créer le répertoire de sortie s'il n'existe pas
     output_dir = 'data'
     os.makedirs(output_dir, exist_ok=True)
 
-    # Définir les chemins des fichiers de sortie
+    # Récupérer le résumé
+    resume_df = get_water_quality()
     resume_path = os.path.join(output_dir, 'resume.csv')
-    details_path = os.path.join(output_dir, 'details.csv')
-
-    # Sauvegarder en CSV
     resume_df.to_csv(resume_path, index=False)
-    details_df.to_csv(details_path, index=False)
+    print(f"Résumé sauvegardé dans '{resume_path}'.")
 
-    print(f"Fichiers CSV sauvegardés dans '{output_dir}'.")
+    # Récupérer les détails (avec gestion d'erreur si PDF indisponible)
+    try:
+        details_df = get_detailed_results()
+        details_path = os.path.join(output_dir, 'details.csv')
+        details_df.to_csv(details_path, index=False)
+        print(f"Détails sauvegardés dans '{details_path}'.")
+    except Exception as e:
+        print(f"Erreur lors de la récupération des détails (PDF peut-être indisponible): {e}")
+        print("Le fichier resume.csv a été généré avec succès.")
+
+    print(f"Mise à jour terminée.")
 
 if __name__ == "__main__":
     run_update()
