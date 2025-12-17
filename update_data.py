@@ -22,9 +22,13 @@ def run_update():
     # Récupérer les détails (avec gestion d'erreur si PDF indisponible)
     try:
         details_df = get_detailed_results()
-        details_path = os.path.join(output_dir, 'details.csv')
-        details_df.to_csv(details_path, index=False)
-        print(f"Détails sauvegardés dans '{details_path}'.")
+        if details_df is not None:
+            details_path = os.path.join(output_dir, 'details.csv')
+            details_df.to_csv(details_path, index=False)
+            print(f"Détails sauvegardés dans '{details_path}'.")
+        else:
+            print("⚠️  PDF indisponible : impossible de récupérer les détails.")
+            print("Le fichier resume.csv a été généré avec succès.")
     except Exception as e:
         print(f"Erreur lors de la récupération des détails (PDF peut-être indisponible): {e}")
         print("Le fichier resume.csv a été généré avec succès.")
