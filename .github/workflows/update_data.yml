@@ -35,7 +35,14 @@ jobs:
       - name: Exécution du script de mise à jour
         run: uv run python update_data.py
 
-      # 6. Commit et pousse les fichiers CSV mis à jour
+      # 6. Pull latest changes to avoid conflicts
+      - name: Pull des dernières modifications
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash
+
+      # 7. Commit et pousse les fichiers CSV mis à jour
       - name: Commit des fichiers de données
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
@@ -44,4 +51,3 @@ jobs:
           file_pattern: data/*.csv
           commit_user_name: github-actions[bot]
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
-          push_options: '--force-with-lease'
