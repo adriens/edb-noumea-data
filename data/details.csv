@@ -1,19 +1,16 @@
 site,point_de_prelevement,date,heure,e_coli_npp_100ml,enterocoques_npp_100ml,id_point_prelevement,desc_point_prelevement
-,"P18049, face The Beach House",2026-02-04,06:56:00,305,74,P18049,face The Beach House
-PLAGE DE LA BAIE DES CITRONS,"P18050, face allée centrale Mirage Plaza",2026-02-04,07:00:00,520,109,P18050,face allée centrale Mirage Plaza
-PLAGE DE LA BAIE DES CITRONS,"P18141, face La Guinche",2026-02-04,07:02:00,95,10,P18141,face La Guinche
-PLAGE DE LA BAIE DES CITRONS,"P18053, face Fun Beach (milieu de plage)",2026-02-04,07:07:00,1100,20,P18053,face Fun Beach (milieu de plage)
-PLAGE DE LA BAIE DES CITRONS,"P18054, face Burger King",2026-02-04,07:10:00,228,148,P18054,face Burger King
-PLAGE DE L'ANSE VATA,"P18054, face Burger King",2026-02-04,07:10:00,228,148,P18054,face Burger King
-PLAGE DE L'ANSE VATA,"P18055, face Communauté du Pacifique",2026-02-04,07:15:00,520,75,P18055,face Communauté du Pacifique
-PLAGE DE L'ANSE VATA,"P18056, face Nouvata Park Hotel",2026-02-04,07:20:00,175,20,P18056,face Nouvata Park Hotel
-PLAGE DE L'ANSE VATA,"P18057, face escalier d'accès plage",2026-02-04,07:30:00,189,20,P18057,face escalier d'accès plage
-PLAGE DE LA POINTE MAGNIN,"P18057, face escalier d'accès plage",2026-02-04,07:30:00,189,20,P18057,face escalier d'accès plage
-PLAGE DE LA POINTE MAGNIN,"P18058, face piscine Hotel Château Royal",2026-02-04,07:27:00,203,10,P18058,face piscine Hotel Château Royal
-PLAGE DE LA POINTE MAGNIN,"P18059, anse des Hobie Cats (milieu)",2026-01-22,08:04:00,109,10,P18059,anse des Hobie Cats (milieu)
-PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2026-01-29,07:50:00,84,10,P18060,anse de la pointe (milieu)
-PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2026-02-04,07:36:00,336,41,P18061,anse de l'école de voile (milieu)
-PLAGE DE LA PROMENADE PIERRE VERNIER,"P18031, face douche du Lions Club",2026-02-02,08:19:00,1153,813,P18031,face douche du Lions Club
-PLAGE DE MAGENTA,"P18032, face bout de piste aérodrome",2026-02-02,08:24:00,110,10,P18032,face bout de piste aérodrome
-PLAGE DE MAGENTA,"P18043, face les Hélices",2026-02-02,08:34:00,296,30,P18043,face les Hélices
-PLAGE DU KUENDU BEACH,"P18048, face entrée du Kuendu Beach",2026-02-04,08:05:00,108,10,P18048,face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-02-09,06:55,369,74,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-02-09,07:00,98,10,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-02-09,07:05,216,10,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-02-09,07:10,156,20,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-02-09,07:15,148,10,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-02-09,07:20,156,20,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-02-09,07:35,134,10,P18057,Face escalier d'accès
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-02-09,07:30,86,10,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2026-01-22,08:04,109,10,P18059,anse des Hobie Cats (milieu)
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2026-01-29,07:50,84,10,P18060,anse de la pointe (milieu)
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2026-02-04,07:36,336,41,P18061,anse de l'école de voile (milieu)
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-02-09,08:10,31,10,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-02-09,08:20,85,20,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-02-09,08:30,63,10,P18043,Face Les Hélices
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-02-04,08:05,108,10,P18048,Face entrée du Kuendu Beach
