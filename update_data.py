@@ -23,6 +23,9 @@ def run_update():
     try:
         details_df = get_detailed_results()
         if details_df is not None:
+            # Nettoyage : supprimer les lignes où le site est manquant (évite la ligne vide après l'entête)
+            details_df = details_df.dropna(subset=['site'])
+            
             details_path = os.path.join(output_dir, 'details.csv')
             details_df.to_csv(details_path, index=False)
             print(f"Détails sauvegardés dans '{details_path}'.")
