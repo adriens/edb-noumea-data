@@ -15,11 +15,11 @@ jobs:
     steps:
       # 1. Récupère le code de votre dépôt
       - name: Checkout du dépôt
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       # 2. Met en place uv et Python
       - name: Mise en place de uv
-        uses: astral-sh/setup-uv@v1
+        uses: astral-sh/setup-uv@v7
         with:
           python-version: '3.11'
 
@@ -44,7 +44,7 @@ jobs:
 
       # 7. Commit et pousse les fichiers CSV mis à jour
       - name: Commit des fichiers de données
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Mise à jour automatique des données de baignade"
           # Spécifie de ne commit que les fichiers dans le dossier data
