@@ -11,6 +11,12 @@ def append_details_history(details_df, output_dir):
     history_path = os.path.join(output_dir, 'details_history.csv')
     key = ['id_point_prelevement', 'date', 'heure']
 
+    details_df = details_df.copy()
+    # Normalise la date en chaîne 'YYYY-MM-DD' : get_detailed_results() la renvoie
+    # parfois en datetime64, ce qui casse la clé de déduplication (mélange de types
+    # 'objet' où les Timestamp s'affichent avec " 00:00:00" au moment du to_csv).
+    details_df['date'] = pd.to_datetime(details_df['date']).dt.strftime('%Y-%m-%d')
+
     if os.path.exists(history_path):
         history_df = pd.read_csv(history_path)
         combined = pd.concat([history_df, details_df], ignore_index=True)
@@ -74,6 +80,10 @@ def run_update():
         if details_df is not None:
             # Nettoyage : supprimer les lignes où le site est manquant (évite la ligne vide après l'entête)
             details_df = details_df.dropna(subset=['site'])
+            # L'extraction PDF (Camelot) laisse parfois passer une ligne d'en-tête
+            # dupliquée ou une ligne quasi vide ; on ne garde que les relevés dont
+            # l'identifiant de point de prélèvement a la forme attendue "P" + chiffres.
+            details_df = details_df[details_df['id_point_prelevement'].astype(str).str.match(r'^P\d+$')]
 
             details_path = os.path.join(output_dir, 'details.csv')
             details_df.to_csv(details_path, index=False)

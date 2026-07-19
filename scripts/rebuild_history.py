@@ -50,6 +50,13 @@ def rebuild_details():
             continue
         df = pd.read_csv(StringIO(content))
         df = df.dropna(subset=["site"])
+        # Certains exports PDF (Camelot) laissent passer une ligne d'en-tête
+        # dupliquée ou une ligne quasi vide : on ne garde que les relevés dont
+        # l'identifiant de point de prélèvement a la forme attendue "P" + chiffres.
+        df = df[df["id_point_prelevement"].astype(str).str.match(r"^P\d+$")]
+        # Normalise la date en 'YYYY-MM-DD' (certaines versions historiques du CSV
+        # stockaient un datetime, ce qui casserait la clé de déduplication).
+        df["date"] = pd.to_datetime(df["date"]).dt.strftime("%Y-%m-%d")
         frames.append(df)
 
     all_rows = pd.concat(frames, ignore_index=True)
