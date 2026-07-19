@@ -1,0 +1,916 @@
+site,point_de_prelevement,date,heure,e_coli_npp_100ml,enterocoques_npp_100ml,id_point_prelevement,desc_point_prelevement
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2025-09-04,08:12,10.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2025-09-11,08:54,10.0,10.0,P18061,anse de l'école de voile (milieu)
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-09-15,08:35,41.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2025-09-18,08:24,121.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-09-18,08:52,146.0,75.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-09-22,06:59,98.0,10.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-09-22,07:04,63.0,20.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-09-22,07:09,30.0,175.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-09-22,07:16,131.0,20.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-09-22,07:21,20.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-09-22,07:26,121.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-09-22,07:33,110.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-09-22,07:40,31.0,20.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-09-22,07:44,187.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-09-22,07:59,199.0,317.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-09-22,08:04,75.0,75.0,P18043,Face Les Hélices
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-09-22,08:14,97.0,20.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-09-25,07:09,183.0,52.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-09-25,07:15,31.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-09-25,07:21,134.0,41.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-09-25,07:27,52.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-09-25,07:32,183.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-09-25,07:37,934.0,20.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-09-25,07:46,327.0,20.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-09-25,07:55,97.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-09-25,07:59,86.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2025-09-25,08:16,41.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-09-25,08:48,41.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-09-29,06:35,30.0,10.0,P18043,Face Les Hélices
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-09-29,06:45,97.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-09-29,07:13,63.0,10.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-09-29,07:20,75.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-09-29,07:27,52.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-09-29,07:33,195.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-09-29,07:41,41.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-09-29,07:51,10.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-09-29,07:57,74.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-09-29,08:10,30.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-09-29,08:13,226.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-09-29,08:35,169.0,10.0,P18031,Face douche Lions Club
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-10-02,07:13,73.0,10.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-10-02,07:17,30.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-10-02,07:21,34.0,20.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-10-02,07:24,73.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-10-02,07:27,63.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-10-02,07:31,74.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-10-02,07:35,148.0,52.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-10-02,07:43,331.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-10-02,07:47,185.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2025-10-02,07:54,109.0,10.0,P18061,anse de l'école de voile (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-10-02,08:21,323.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-10-06,07:07,20.0,63.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-10-06,07:11,197.0,331.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-10-06,07:19,10.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-10-06,07:24,108.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-10-06,07:28,50.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-10-06,07:38,201.0,74.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-10-06,07:42,52.0,341.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-10-06,07:50,73.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-10-06,07:54,52.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-10-06,08:13,173.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-10-06,08:17,160.0,20.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-10-06,08:27,132.0,63.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-10-09,06:50,31.0,10.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-10-09,06:55,41.0,31.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-10-09,07:02,86.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-10-09,07:07,52.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-10-09,07:12,52.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-10-09,07:18,131.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-10-09,07:31,10.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-10-09,07:37,96.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-10-09,07:42,41.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2025-10-09,07:53,85.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-10-09,08:28,41.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-10-13,07:20,275.0,10.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-10-13,07:28,120.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-10-13,07:33,51.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-10-13,07:36,189.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-10-13,07:40,384.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-10-13,07:44,189.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-10-13,07:48,175.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-10-13,07:56,295.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-10-13,07:58,86.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-10-13,08:20,74.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-10-13,08:27,109.0,20.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-10-13,08:35,41.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-10-16,07:24,171.0,20.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-10-16,07:28,201.0,122.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-10-16,07:31,63.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-10-16,07:35,134.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-10-16,07:38,216.0,41.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-10-16,07:42,428.0,428.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-10-16,07:46,235.0,121.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-10-16,07:53,97.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-10-16,07:58,203.0,20.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2025-10-16,08:08,75.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-10-16,08:34,189.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DU KUENDU BEACH,"P18048, face entrée du Kuendu Beach",2025-10-16,189,189.0,10.0,P18048,face entrée du Kuendu Beach
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2025-10-16,75,75.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-10-20,07:08,144.0,213.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-10-20,07:13,171.0,613.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-10-20,07:23,84.0,30.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-10-20,07:29,288.0,52.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-10-20,07:33,512.0,134.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-10-20,07:39,275.0,122.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-10-20,07:50,450.0,52.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-10-20,08:10,148.0,20.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-10-20,08:15,328.0,166.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-10-20,08:38,24196.0,14136.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-10-20,08:47,4611.0,768.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-10-20,08:55,98.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, face allée centrale Mirage Plaza",2025-10-20,171,171.0,613.0,P18050,face allée centrale Mirage Plaza
+PLAGE DE MAGENTA,"P18032, face bout de piste aérodrome",2025-10-21,583,583.0,63.0,P18032,face bout de piste aérodrome
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2025-10-23,08:00,384.0,41.0,P18061,anse de l'école de voile (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-10-23,08:30,20.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, face allée centrale Mirage Plaza",2025-10-23,108,108.0,4352.0,P18050,face allée centrale Mirage Plaza
+PLAGE DU KUENDU BEACH,"P18048, face entrée du Kuendu Beach",2025-10-23,20,20.0,10.0,P18048,face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-10-27,07:20,122.0,10.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-10-27,07:25,134.0,20.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-10-27,07:29,441.0,145.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-10-27,07:34,161.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-10-27,07:37,74.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-10-27,07:41,31.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-10-27,07:45,74.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-10-27,07:49,110.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-10-27,07:51,160.0,20.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-10-27,08:12,135.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-10-27,08:18,175.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-10-27,08:25,63.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-10-30,07:20,160.0,10.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-10-30,07:23,269.0,20.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-10-30,07:26,279.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-10-30,07:30,201.0,20.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-10-30,07:33,86.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-10-30,07:37,185.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-10-30,07:41,118.0,63.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-10-30,07:46,41.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-10-30,07:49,10.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2025-10-30,07:58,246.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-10-30,08:25,31.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-11-03,07:05,10.0,30.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-11-03,07:10,71.0,41.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-11-03,07:19,195.0,63.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-11-03,07:23,20.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-11-03,07:27,74.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-11-03,07:32,20.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-11-03,07:38,41.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-11-03,07:55,20.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-11-03,07:58,75.0,20.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-11-03,08:22,41.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-11-03,08:25,119.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-11-03,08:39,63.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-11-06,07:00,84.0,31.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-11-06,07:05,520.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-11-06,07:10,97.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-11-06,07:25,63.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-11-06,07:30,10.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-11-06,07:35,20.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-11-06,07:40,51.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-11-06,08:10,233.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-11-06,08:15,160.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2025-11-06,08:30,10.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-11-06,08:50,144.0,144.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-11-12,07:00,31.0,10.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-11-12,07:05,145.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-11-12,07:10,266.0,295.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-11-12,07:20,121.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-11-12,07:25,209.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-11-12,07:30,288.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-11-12,07:35,20.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-11-12,07:45,145.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-11-12,07:50,275.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2025-11-12,08:00,98.0,10.0,P18061,anse de l'école de voile (milieu)
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-11-12,08:20,41.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-11-12,08:30,228.0,41.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-11-12,08:35,134.0,10.0,P18043,Face Les Hélices
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-11-12,09:00,75.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-11-17,07:00,10.0,10.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-11-17,07:05,20.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-11-17,07:10,20.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-11-17,07:25,20.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-11-17,07:30,52.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-11-17,07:35,10.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-11-17,07:40,85.0,20.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-11-17,07:50,10.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-11-17,07:55,318.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-11-17,08:15,10.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-11-17,08:25,10.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-11-17,08:35,10.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-11-20,07:15,41.0,31.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-11-20,07:20,86.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-11-20,07:25,75.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-11-20,07:35,31.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-11-20,07:40,121.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-11-20,07:45,691.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-11-20,07:50,63.0,20.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-11-20,08:00,52.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-11-20,08:05,52.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2025-11-20,08:20,31.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-11-20,08:45,63.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-11-24,07:30,75.0,201.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-11-24,07:33,86.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-11-24,07:37,52.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-11-24,07:40,31.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-11-24,07:43,96.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-11-24,07:47,52.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-11-24,07:51,86.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-11-24,07:54,20.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-11-24,07:56,97.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-11-24,08:12,305.0,52.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-11-24,08:15,121.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-11-24,08:20,1376.0,785.0,P18043,Face Les Hélices
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2025-11-27,08:15,374.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-11-27,08:46,86.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-12-01,07:50,355.0,10.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-12-01,07:55,98.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-12-01,08:00,218.0,41.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-12-01,08:10,213.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-12-01,08:15,670.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-12-01,08:20,187.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-12-01,08:25,135.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-12-01,08:35,121.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-12-01,08:40,98.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-12-01,08:55,241.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-12-01,09:00,247.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-12-01,09:05,292.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-12-04,07:00,1670.0,350.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-12-04,07:05,1421.0,695.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-12-04,07:15,41.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-12-04,07:25,359.0,31.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-12-04,07:30,10.0,122.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-12-04,07:35,676.0,171.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-12-04,07:40,313.0,203.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-12-04,07:45,161.0,259.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-12-04,07:50,341.0,189.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2025-12-04,08:00,52.0,10.0,P18061,anse de l'école de voile (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-12-04,08:40,1145.0,2603.0,P18048,Face entrée du Kuendu Beach
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-12-05,10:00,30.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-12-06,10:30,414.0,156.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-12-06,10:45,199.0,85.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-12-06,10:50,41.0,10.0,P18141,Face la Guinche
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-12-08,07:39,41.0,10.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-12-08,07:46,201.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-12-08,07:48,20.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-12-08,07:52,63.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-12-08,07:55,148.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-12-08,07:59,98.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-12-08,08:03,110.0,20.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-12-08,08:06,20.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-12-08,08:11,148.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-12-08,08:30,85.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-12-08,08:35,160.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-12-08,08:42,187.0,41.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-12-11,07:21,146.0,20.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-12-11,07:25,52.0,51.0,P18141,Face la Guinche
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-12-11,07:26,148.0,20.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-12-11,07:36,142.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-12-11,07:39,216.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-12-11,07:43,158.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-12-11,07:47,292.0,41.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-12-11,07:52,391.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-12-11,07:55,135.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2025-12-11,08:03,108.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-12-11,08:32,282.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-12-15,07:00,63.0,121.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-12-15,07:10,393.0,241.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-12-15,07:15,131.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-12-15,07:20,185.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-12-15,07:25,295.0,20.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-12-15,07:30,134.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-12-15,07:45,109.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-12-15,07:50,135.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-12-15,07:55,41.0,10.0,P18049,Face The Beach House
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-12-15,08:15,96.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-12-15,08:20,63.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-12-15,08:30,119.0,20.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-12-18,07:10,160.0,110.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-12-18,07:15,3654.0,3448.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-12-18,07:25,85.0,63.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-12-18,07:30,213.0,52.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-12-18,07:35,52.0,41.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-12-18,07:40,272.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-12-18,07:45,199.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-12-18,07:55,292.0,120.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-12-18,08:00,223.0,97.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2025-12-18,08:10,201.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-12-18,08:30,197.0,613.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-12-19,08:15,187.0,52.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-12-19,08:20,860.0,789.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-12-19,08:25,110.0,10.0,P18141,Face la Guinche
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-12-22,07:07,110.0,20.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-12-22,07:11,189.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-12-22,07:14,183.0,31.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-12-22,07:18,146.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-12-22,07:21,203.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-12-22,07:25,145.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-12-22,07:29,160.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-12-22,07:36,122.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-12-22,07:37,97.0,20.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2025-12-22,07:44,98.0,31.0,P18061,anse de l'école de voile (milieu)
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-12-22,07:59,135.0,20.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-12-22,08:03,305.0,238.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-12-22,08:10,97.0,10.0,P18043,Face Les Hélices
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-12-22,08:38,98.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2025-12-29,07:00,243.0,41.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2025-12-29,07:05,311.0,74.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2025-12-29,07:15,341.0,51.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2025-12-29,07:20,121.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2025-12-29,07:25,122.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2025-12-29,07:30,134.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2025-12-29,07:35,546.0,328.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2025-12-29,07:45,359.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2025-12-29,07:50,301.0,52.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2025-12-29,08:00,148.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2025-12-29,08:15,187.0,31.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2025-12-29,08:20,241.0,52.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2025-12-29,08:25,187.0,20.0,P18043,Face Les Hélices
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2025-12-29,08:45,135.0,31.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2026-01-06,07:06,328.0,839.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-01-06,07:10,279.0,512.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-01-06,07:13,226.0,20.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-01-06,07:17,53.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-01-06,07:20,218.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-01-06,07:25,171.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-01-06,07:29,158.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-01-06,07:36,281.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-01-06,07:39,98.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-01-06,08:00,135.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-01-06,08:03,383.0,52.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-01-06,08:11,203.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2026-01-08,08:15,20.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-01-08,08:39,189.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2026-01-12,07:00,132.0,10.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-01-12,07:05,169.0,31.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-01-12,07:15,119.0,109.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-01-12,07:20,54.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-01-12,07:25,231.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-01-12,07:30,169.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-01-12,07:35,141.0,298.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-01-12,07:50,63.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-01-12,07:55,85.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-01-12,08:15,61.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-01-12,08:20,52.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-01-12,08:35,20.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2026-01-15,07:15,52.0,24.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-01-15,07:20,132.0,173.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-01-15,07:25,120.0,34.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-01-15,07:30,195.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-01-15,07:35,173.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-01-15,07:40,41.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-01-15,07:45,41.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-01-15,07:50,119.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-01-15,07:55,120.0,20.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2026-01-15,08:10,269.0,10.0,P18061,anse de l'école de voile (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-01-15,08:40,41.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-01-19,08:26,816.0,609.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-01-19,08:29,364.0,160.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-01-19,08:36,10.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2026-01-22,07:26,364.0,10.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-01-22,07:30,148.0,110.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-01-22,07:33,683.0,384.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-01-22,07:37,708.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-01-22,07:40,183.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-01-22,07:44,211.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-01-22,07:47,189.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-01-22,07:53,602.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-01-22,07:55,450.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2026-01-22,08:04,109.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DE LA POINTE MAGNIN,"P18059, anse des Hobie Cats (milieu)",2026-01-22,08:04:00,109.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-01-22,08:38,298.0,62.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2026-01-26,07:45,259.0,336.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-01-26,07:50,145.0,31.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-01-26,07:55,146.0,52.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-01-26,08:00,142.0,52.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-01-26,08:05,31.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-01-26,08:10,10.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-01-26,08:15,73.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-01-26,08:30,135.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-01-26,08:35,146.0,10.0,P18057,Face escalier d'accès
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-01-26,09:25,75.0,109.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2026-01-29,06:50,388.0,31.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-01-29,06:55,934.0,228.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-01-29,07:00,369.0,355.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-01-29,07:05,231.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-01-29,07:10,195.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-01-29,07:15,75.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-01-29,07:20,41.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-01-29,07:30,420.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-01-29,07:35,439.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2026-01-29,07:50,84.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2026-01-29,07:50:00,84.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-01-29,08:20,155.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-01-29,08:30,201.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-01-29,08:40,164.0,31.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2026-02-02,07:27,414.0,52.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-02-02,07:30,833.0,201.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-02-02,07:33,211.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-02-02,07:37,171.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-02-02,07:40,171.0,52.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-02-02,07:44,185.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-02-02,07:48,175.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-02-02,07:54,295.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-02-02,07:56,98.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-02-02,08:19,1153.0,813.0,P18031,Face douche Lions Club
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18031, face douche du Lions Club",2026-02-02,08:19:00,1153.0,813.0,P18031,face douche du Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-02-02,08:24,110.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18032, face bout de piste aérodrome",2026-02-02,08:24:00,110.0,10.0,P18032,face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-02-02,08:34,296.0,30.0,P18043,Face Les Hélices
+PLAGE DE MAGENTA,"P18043, face les Hélices",2026-02-02,08:34:00,296.0,30.0,P18043,face les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, face allée centrale Mirage Plaza",2026-02-04,07:00:00,520.0,109.0,P18050,face allée centrale Mirage Plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, face La Guinche",2026-02-04,07:02:00,95.0,10.0,P18141,face La Guinche
+PLAGE DE LA BAIE DES CITRONS,"P18053, face Fun Beach (milieu de plage)",2026-02-04,07:07:00,1100.0,20.0,P18053,face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, face Burger King",2026-02-04,07:10:00,228.0,148.0,P18054,face Burger King
+PLAGE DE L'ANSE VATA,"P18055, face Communauté du Pacifique",2026-02-04,07:15:00,520.0,75.0,P18055,face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, face Nouvata Park Hotel",2026-02-04,07:20:00,175.0,20.0,P18056,face Nouvata Park Hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, face piscine Hotel Château Royal",2026-02-04,07:27:00,203.0,10.0,P18058,face piscine Hotel Château Royal
+PLAGE DE LA POINTE MAGNIN,"P18057, face escalier d'accès plage",2026-02-04,07:30:00,189.0,20.0,P18057,face escalier d'accès plage
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2026-02-04,07:36,336.0,41.0,P18061,anse de l'école de voile (milieu)
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2026-02-04,07:36:00,336.0,41.0,P18061,anse de l'école de voile (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-02-04,08:05,108.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DU KUENDU BEACH,"P18048, face entrée du Kuendu Beach",2026-02-04,08:05:00,108.0,10.0,P18048,face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-02-09,06:55,369.0,74.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-02-09,07:00,98.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-02-09,07:05,216.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-02-09,07:10,156.0,20.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-02-09,07:15,148.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-02-09,07:20,156.0,20.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-02-09,07:30,86.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-02-09,07:35,134.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-02-09,08:10,31.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-02-09,08:20,85.0,20.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-02-09,08:30,63.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-02-12,07:15,581.0,63.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-02-12,07:20,281.0,31.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-02-12,07:25,341.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-02-12,07:30,860.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-02-12,07:35,161.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-02-12,07:40,119.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-02-12,07:55,313.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-02-12,08:00,226.0,41.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2026-02-12,08:05,86.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-02-12,08:39,86.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-02-16,07:45,3255.0,1112.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-02-16,07:49,605.0,288.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-02-16,08:00,2723.0,448.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-02-16,08:04,591.0,146.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-02-16,08:12,717.0,638.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-02-16,08:16,311.0,31.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-02-16,08:23,546.0,1989.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-02-16,08:27,199.0,109.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-02-16,08:52,9208.0,6131.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-02-16,08:57,400.0,171.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-02-16,09:08,63.0,10.0,P18043,Face Les Hélices
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-02-17,08:45,480.0,161.0,P18043,Face Les Hélices
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-02-17,08:50,496.0,30.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-02-17,09:00,467.0,85.0,P18031,Face douche Lions Club
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-02-17,09:25,1071.0,218.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-02-17,09:30,228.0,10.0,P18057,Face escalier d'accès
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-02-17,09:40,2224.0,132.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-02-17,10:00,12033.0,8164.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-02-19,07:28,488.0,135.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-02-19,07:33,332.0,41.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-02-19,07:37,364.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-02-19,07:40,213.0,31.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-02-19,07:45,368.0,30.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-02-19,07:49,218.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-02-19,07:53,201.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-02-19,07:56,235.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2026-02-19,08:07,218.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-02-19,08:39,98.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-02-23,07:00,228.0,20.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-02-23,07:05,368.0,246.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-02-23,07:10,459.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-02-23,07:15,295.0,74.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-02-23,07:20,301.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-02-23,07:25,305.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-02-23,07:40,393.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-02-23,07:50,288.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-02-23,08:25,144.0,134.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-02-23,08:30,169.0,85.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-02-23,08:35,166.0,63.0,P18043,Face Les Hélices
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2026-02-26,08:10,75.0,10.0,P18061,anse de l'école de voile (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-02-26,08:35,41.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-03-02,07:45,583.0,364.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-03-02,07:47,420.0,52.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-03-02,07:51,520.0,153.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-03-02,07:54,474.0,86.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-03-02,07:58,318.0,85.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-03-02,08:02,428.0,132.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-03-02,08:06,228.0,98.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-03-02,08:10,262.0,74.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-03-02,08:32,1081.0,2909.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-03-02,08:36,3873.0,670.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-03-02,08:46,193.0,158.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-03-04,07:12,246.0,20.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-03-04,07:14,189.0,31.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-03-04,07:19,243.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-03-04,07:22,185.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-03-04,07:26,160.0,31.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-03-04,07:30,86.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-03-04,07:35,63.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-03-04,07:39,63.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2026-03-04,07:47,301.0,20.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-03-04,08:00,395.0,259.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-03-04,08:05,321.0,108.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-03-04,08:13,86.0,10.0,P18043,Face Les Hélices
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-03-04,08:37,189.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-03-09,07:00,729.0,263.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-03-09,07:05,912.0,300.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-03-09,07:15,305.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-03-09,07:20,355.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-03-09,07:25,18.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-03-09,07:30,341.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-03-09,07:45,663.0,256.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-03-09,07:50,761.0,201.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-03-09,08:25,309.0,41.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-03-09,08:30,323.0,63.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-03-09,08:45,171.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-03-11,06:55,98.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-03-11,07:00,160.0,175.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-03-11,07:05,411.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-03-11,07:10,228.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-03-11,07:15,256.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-03-11,07:20,364.0,20.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-03-11,07:30,202.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-03-11,07:35,109.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2026-03-11,07:45,98.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-03-11,08:00,96.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-03-16,07:34,5475.0,583.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-03-16,07:37,295.0,110.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-03-16,07:41,1081.0,135.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-03-16,07:44,840.0,20.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-03-16,07:49,805.0,108.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-03-16,07:52,327.0,315.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-03-16,07:56,119.0,75.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-03-16,07:59,96.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-03-16,08:30,3076.0,933.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-03-16,08:33,17329.0,4611.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-03-16,08:43,98.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-03-17,08:16,1334.0,313.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-03-17,08:20,934.0,171.0,P18141,Face la Guinche
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-03-17,08:42,443.0,52.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-03-17,08:46,109.0,31.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-03-17,08:54,135.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-03-19,07:45,564.0,617.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-03-19,07:48,1296.0,959.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-03-19,07:58,134.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-03-19,08:01,301.0,20.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-03-19,08:09,171.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-03-19,08:13,2481.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-03-19,08:18,135.0,52.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-03-19,08:20,529.0,228.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2026-03-19,08:33,432.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-03-19,08:57,145.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-03-20,08:18,882.0,211.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-03-20,08:21,97.0,20.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-03-20,08:24,404.0,41.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-03-20,08:27,97.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-03-20,08:32,218.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-03-20,08:36,243.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-03-23,07:11,249.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-03-23,07:14,243.0,20.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-03-23,07:19,309.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-03-23,07:22,279.0,30.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-03-23,07:26,473.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-03-23,07:30,213.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-03-23,07:34,313.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-03-23,07:37,228.0,20.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-03-23,08:12,908.0,98.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-03-23,08:18,318.0,41.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-03-23,08:26,135.0,20.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-03-26,07:41,146.0,30.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-03-26,07:44,120.0,20.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-03-26,07:49,388.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-03-26,07:52,399.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-03-26,07:57,336.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-03-26,08:01,309.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-03-26,08:09,355.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-03-26,08:11,323.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2026-03-26,08:19,364.0,10.0,P18061,anse de l'école de voile (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-03-26,08:48,110.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-03-30,07:44,2247.0,2481.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-03-30,07:46,301.0,20.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-03-30,07:50,146.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-03-30,07:53,185.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-03-30,07:57,197.0,20.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-03-30,08:01,471.0,73.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-03-30,08:05,146.0,30.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-03-30,08:08,160.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-03-30,08:27,161.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-03-30,08:31,364.0,52.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-03-30,08:38,98.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-03-31,08:10,313.0,160.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-03-31,08:13,84.0,10.0,P18141,Face la Guinche
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-04-01,07:09,833.0,529.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-04-01,07:12,218.0,41.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-04-01,07:15,253.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-04-01,07:18,148.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-04-01,07:23,399.0,73.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-04-01,07:27,465.0,30.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-04-01,07:34,144.0,20.0,P18057,Face escalier d'accès
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-04-01,07:37,183.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2026-04-01,07:45,265.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-04-01,08:15,63.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-04-07,07:05,336.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-04-07,07:15,218.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-04-07,07:20,481.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-04-07,07:25,173.0,31.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-04-07,07:30,622.0,31.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-04-07,07:35,481.0,110.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-04-07,07:45,262.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-04-07,07:50,218.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-04-07,08:20,203.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-04-07,08:25,110.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-04-07,08:30,169.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-04-09,07:00,221.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-04-09,07:05,109.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-04-09,07:15,637.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-04-09,07:20,441.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-04-09,07:25,520.0,51.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-04-09,07:30,275.0,74.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-04-09,07:40,350.0,20.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-04-09,07:45,379.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2026-04-09,07:55,187.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-04-09,08:15,51.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-04-13,07:37,203.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-04-13,07:39,2382.0,2187.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-04-13,07:43,556.0,74.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-04-13,07:46,359.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-04-13,07:50,410.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-04-13,07:53,331.0,31.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-04-13,08:00,722.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-04-13,08:06,638.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-04-13,08:37,1372.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-04-13,08:42,959.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-04-13,08:54,959.0,63.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-04-16,07:08,2851.0,676.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-04-16,07:12,231.0,41.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-04-16,07:21,616.0,109.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-04-16,07:25,305.0,20.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-04-16,07:30,536.0,109.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-04-16,07:34,350.0,74.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-04-16,07:38,109.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-04-16,07:43,145.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2026-04-16,07:52,213.0,10.0,P18061,anse de l'école de voile (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-04-16,08:20,85.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-04-17,08:01,185.0,41.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-04-17,08:04,2481.0,10.0,P18141,Face la Guinche
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-04-20,07:00,63.0,41.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-04-20,07:15,135.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-04-20,07:20,127.0,20.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-04-20,07:25,216.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-04-20,07:30,345.0,213.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-04-20,07:35,189.0,31.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-04-20,07:45,279.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-04-20,07:50,75.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-04-20,08:05,315.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-04-20,08:10,121.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-04-20,08:15,75.0,31.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-04-23,07:05,537.0,30.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-04-23,07:15,144.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-04-23,07:20,889.0,20.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-04-23,07:25,221.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-04-23,07:30,1071.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-04-23,07:35,328.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-04-23,07:50,912.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-04-23,07:55,350.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2026-04-23,08:00,109.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-04-23,08:30,860.0,20.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-04-27,07:42,238.0,135.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-04-27,07:48,2014.0,801.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-04-27,07:52,160.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-04-27,07:55,213.0,98.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-04-27,08:00,719.0,84.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-04-27,08:08,683.0,199.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-04-27,08:18,563.0,74.0,P18057,Face escalier d'accès
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-04-27,08:22,624.0,52.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2026-04-27,08:33,488.0,20.0,P18060,anse de la pointe (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-04-27,08:57,241.0,30.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-04-28,07:53,231.0,41.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-04-28,07:55,75.0,10.0,P18141,Face la Guinche
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-05-04,07:00,464.0,74.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-05-04,07:10,156.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-05-04,07:15,216.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-05-04,07:20,488.0,41.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-05-04,07:25,301.0,31.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-05-04,07:30,368.0,30.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-05-04,07:40,261.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-05-04,07:45,379.0,20.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-05-04,08:10,301.0,41.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-05-04,08:15,323.0,86.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-05-04,08:20,108.0,20.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-05-06,06:55,250.0,20.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-05-06,07:05,275.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-05-06,07:10,393.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-05-06,07:15,529.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-05-06,07:20,160.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-05-06,07:25,235.0,31.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-05-06,07:40,323.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-05-06,07:45,238.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2026-05-06,07:50,275.0,10.0,P18061,anse de l'école de voile (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-05-06,08:10,288.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2026-05-11,07:01,955.0,290.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-05-11,07:07,160.0,31.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-05-11,07:10,63.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-05-11,07:17,63.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-05-11,07:20,63.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-05-11,07:23,189.0,31.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-05-11,07:28,241.0,41.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-05-11,07:31,86.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-05-11,07:34,75.0,20.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2026-05-11,07:41,52.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-05-11,08:00,122.0,51.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-05-11,08:08,110.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-05-11,08:14,399.0,368.0,P18043,Face Les Hélices
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-05-11,08:38,189.0,20.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-05-18,08:05,332.0,209.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-05-18,08:10,847.0,960.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-05-18,08:15,708.0,216.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-05-21,06:50,292.0,201.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-05-21,07:00,52.0,20.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-05-21,07:05,201.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-05-21,07:10,197.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-05-21,07:20,121.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-05-21,07:25,145.0,75.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-05-21,07:35,41.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-05-21,07:40,109.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2026-05-21,07:45,31.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-05-21,08:05,96.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2026-05-26,07:05,31.0,51.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-05-26,07:09,776.0,173.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-05-26,07:12,288.0,288.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-05-26,07:21,3076.0,884.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-05-26,07:24,145.0,31.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-05-26,07:29,197.0,86.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-05-26,07:33,31.0,41.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-05-26,07:40,20.0,31.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-05-26,07:44,10.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-05-26,08:05,10.0,62.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-05-26,08:12,31.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-05-26,08:25,10.0,10.0,P18043,Face Les Hélices
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-05-27,08:30,52.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-05-28,07:36,243.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-05-28,07:38,313.0,31.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-05-28,07:45,173.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-05-28,07:48,246.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-05-28,07:53,250.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-05-28,07:58,146.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-05-28,08:03,146.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-05-28,08:07,197.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2026-05-28,08:14,823.0,1664.0,P18061,anse de l'école de voile (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-05-28,08:45,160.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-06-01,07:07,213.0,52.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-06-01,07:09,1616.0,488.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-06-01,07:18,134.0,20.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-06-01,07:21,241.0,20.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-06-01,07:25,243.0,52.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-06-01,07:33,185.0,63.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-06-01,07:35,272.0,63.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-06-01,07:38,173.0,98.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-06-01,08:06,160.0,20.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-06-01,08:09,1187.0,789.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-06-01,08:15,179.0,10.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-06-02,07:05,75.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-06-02,07:10,74.0,41.0,P18141,Face la Guinche
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-06-03,08:00,135.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-06-03,08:05,373.0,63.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-06-03,08:10,160.0,52.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-06-04,07:39,41.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-06-04,07:41,86.0,20.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-06-04,07:49,63.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-06-04,07:52,86.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-06-04,07:56,259.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-06-04,08:00,75.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-06-04,08:03,209.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-06-04,08:08,189.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2026-06-04,08:16,31.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-06-04,08:47,20.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-06-08,07:45,63.0,20.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-06-08,07:55,120.0,97.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-06-08,08:00,241.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-06-08,08:05,10.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-06-08,08:10,146.0,52.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-06-08,08:15,243.0,52.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-06-08,08:25,41.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-06-08,08:30,96.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-06-08,08:50,122.0,10.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-06-08,08:55,318.0,20.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-06-08,09:00,250.0,389.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-06-09,09:10,187.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-06-09,09:15,146.0,41.0,P18141,Face la Guinche
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-06-11,07:10,121.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-06-11,07:20,177.0,20.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-06-11,07:25,160.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-06-11,07:30,95.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-06-11,07:35,98.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-06-11,07:40,983.0,41.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-06-11,07:55,860.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-06-11,08:00,187.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2026-06-11,08:15,886.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-06-11,08:40,160.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-06-15,07:09,301.0,323.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-06-15,07:12,203.0,74.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-06-15,07:20,631.0,279.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-06-15,07:23,3282.0,798.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-06-15,07:28,1467.0,624.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-06-15,07:32,327.0,120.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-06-15,07:36,303.0,86.0,P18057,Face escalier d'accès
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-06-15,07:38,305.0,183.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-06-15,08:06,2481.0,960.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-06-15,08:14,2909.0,1201.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-06-15,08:21,221.0,97.0,P18043,Face Les Hélices
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-06-16,08:15,110.0,52.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-06-16,08:19,110.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-06-16,08:23,246.0,20.0,P18056,Face Nouvata Park hotel
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-06-16,08:38,1439.0,809.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-06-16,08:42,583.0,631.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-06-16,08:48,573.0,211.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-06-18,07:34,98.0,85.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-06-18,07:37,161.0,20.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-06-18,07:43,86.0,31.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-06-18,07:46,253.0,84.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-06-18,07:50,350.0,75.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-06-18,07:54,298.0,41.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-06-18,07:56,197.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-06-18,08:02,199.0,20.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2026-06-18,08:13,243.0,10.0,P18061,anse de l'école de voile (milieu)
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-06-18,08:27,397.0,73.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-06-18,08:32,301.0,199.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-06-18,08:39,717.0,443.0,P18043,Face Les Hélices
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-06-18,09:00,31.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-06-22,07:38,336.0,98.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-06-22,07:41,399.0,41.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-06-22,07:45,148.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-06-22,07:48,318.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-06-22,07:52,185.0,31.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-06-22,07:57,613.0,345.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-06-22,08:03,173.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-06-22,08:05,345.0,31.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-06-22,08:39,298.0,52.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-06-22,08:49,697.0,933.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-06-22,08:57,309.0,97.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-06-25,06:55,145.0,20.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-06-25,07:05,187.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-06-25,07:10,121.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-06-25,07:15,146.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-06-25,07:20,934.0,108.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-06-25,07:25,132.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-06-25,07:35,327.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-06-25,07:40,52.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2026-06-25,07:50,41.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-06-25,08:20,171.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2026-06-29,06:50,221.0,75.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-06-29,06:55,120.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-06-29,07:00,97.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-06-29,07:05,10.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-06-29,07:10,10.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-06-29,07:15,199.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-06-29,07:20,158.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-06-29,07:30,160.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-06-29,07:35,158.0,10.0,P18057,Face escalier d'accès
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-06-29,08:10,75.0,31.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-06-29,08:15,146.0,10.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-06-29,08:20,465.0,279.0,P18043,Face Les Hélices
+PLAGE DE LA BAIE DES CITRONS,"P18049, Face The Beach House",2026-07-02,06:50,677.0,10.0,P18049,Face The Beach House
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-07-02,06:55,84.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-07-02,07:00,20.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-07-02,07:05,51.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-07-02,07:10,120.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-07-02,07:15,121.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-07-02,07:20,109.0,10.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-07-02,07:30,75.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-07-02,07:35,98.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2026-07-02,07:50,10.0,10.0,P18060,anse de la pointe (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-07-02,08:20,30.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-07-06,07:53,197.0,74.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-07-06,07:57,63.0,20.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-07-06,08:06,85.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-07-06,08:09,364.0,86.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-07-06,08:15,3255.0,1354.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-07-06,08:19,,10462.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-07-06,08:31,145.0,31.0,P18057,Face escalier d'accès
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-07-06,08:34,109.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-07-06,09:05,359.0,160.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-07-06,09:14,241.0,161.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-07-06,09:24,146.0,52.0,P18043,Face Les Hélices
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-07-07,08:03,243.0,30.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-07-07,08:09,272.0,74.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-07-07,08:19,9208.0,644.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-07-09,07:53,85.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-07-09,07:57,41.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-07-09,08:04,243.0,20.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-07-09,08:06,10.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-07-09,08:12,20.0,31.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-07-09,08:17,336.0,145.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-07-09,08:35,63.0,20.0,P18057,Face escalier d'accès
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-07-09,08:38,20.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2026-07-09,08:48,148.0,10.0,P18061,anse de l'école de voile (milieu)
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-07-09,09:12,175.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-07-15,07:05,63.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-07-15,07:10,161.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-07-15,07:15,52.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-07-15,07:20,85.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-07-15,07:25,135.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-07-15,07:30,243.0,20.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-07-15,07:35,84.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-07-15,07:40,121.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2026-07-15,07:55,121.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-07-15,08:15,253.0,122.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-07-15,08:20,884.0,300.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-07-15,08:25,199.0,74.0,P18043,Face Les Hélices
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-07-15,09:00,98.0,10.0,P18048,Face entrée du Kuendu Beach
+Nom du site de baignade,Point de prélèvement,,Heure duprélèvement,,,Point de prélèvement,
+Nom du site de baignade,Point de prélèvement,,coli,,,Point de prélèvement,
+PLAGE DE LA POINTE MAGNIN,,,,,,,

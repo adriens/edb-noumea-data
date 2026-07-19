@@ -8,10 +8,12 @@ Ce dépôt contient les données sur la qualité des eaux de baignade pour les p
 
 ## Fichiers de Données
 
-Les données sont stockées dans le dossier `data/` et se composent de deux fichiers :
+Les données sont stockées dans le dossier `data/` et se composent de quatre fichiers :
 
-- `data/resume.csv`: Un fichier résumé de l'état de la baignade pour différentes plages.
-- `data/details.csv`: Un fichier détaillé avec plus d'informations pour chaque relevé.
+- `data/resume.csv`: L'état sanitaire courant de chaque plage (snapshot, écrasé à chaque mise à jour).
+- `data/details.csv`: Le dernier relevé détaillé (E. coli / entérocoques) par point de prélèvement (snapshot, écrasé à chaque mise à jour).
+- `data/resume_history.csv`: L'historique des changements d'état sanitaire par plage (une ligne à chaque fois que l'état d'une plage change).
+- `data/details_history.csv`: L'historique complet de tous les relevés détaillés jamais publiés, dédupliqués par point de prélèvement + date + heure.
 
 ## Mise à Jour Automatique
 
@@ -20,8 +22,17 @@ Un workflow GitHub Actions s'exécute **tous les jours à 5h00 UTC** pour mettre
 Le processus est le suivant :
 1.  Le script `update_data.py` est lancé.
 2.  Il utilise la bibliothèque [edb-noumea](https://github.com/adriens/edb-noumea) pour récupérer les dernières données.
-3.  Les nouveaux fichiers `resume.csv` et `details.csv` sont générés.
-4.  Les fichiers mis à jour sont automatiquement commités sur ce dépôt.
+3.  Les nouveaux fichiers `resume.csv` et `details.csv` sont générés (snapshot courant).
+4.  Les fichiers d'historique `resume_history.csv` et `details_history.csv` sont mis à jour de façon incrémentale (ajout des nouveautés, sans doublons).
+5.  Les fichiers mis à jour sont automatiquement commités sur ce dépôt.
+
+### Reconstruire l'historique depuis git
+
+Avant la mise en place de l'historique incrémental, les seules traces des relevés passés étaient dans les commits git (les CSV étant écrasés à chaque run). Le script `scripts/rebuild_history.py` reconstruit `data/details_history.csv` et `data/resume_history.csv` en parcourant tout l'historique git :
+
+```bash
+python scripts/rebuild_history.py
+```
 
 ## Utilisation Locale
 

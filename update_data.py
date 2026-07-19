@@ -1,7 +1,55 @@
 import os
+from datetime import timezone, datetime
+
 import pandas as pd
 from edb_noumea.main import get_water_quality
 from edb_noumea.details import get_detailed_results
+
+
+def append_details_history(details_df, output_dir):
+    """Ajoute les nouveaux relevés à l'historique complet, sans doublons."""
+    history_path = os.path.join(output_dir, 'details_history.csv')
+    key = ['id_point_prelevement', 'date', 'heure']
+
+    if os.path.exists(history_path):
+        history_df = pd.read_csv(history_path)
+        combined = pd.concat([history_df, details_df], ignore_index=True)
+    else:
+        combined = details_df.copy()
+
+    combined = combined.drop_duplicates(subset=key, keep='last')
+    combined = combined.sort_values(['date', 'heure', 'site']).reset_index(drop=True)
+    combined.to_csv(history_path, index=False)
+    print(f"Historique des détails mis à jour dans '{history_path}' ({len(combined)} relevés).")
+
+
+def append_resume_history(resume_df, output_dir):
+    """Ajoute une ligne d'historique pour chaque plage dont l'état sanitaire a changé."""
+    history_path = os.path.join(output_dir, 'resume_history.csv')
+    today = datetime.now(timezone.utc).date().isoformat()
+
+    snapshot = resume_df.copy()
+    snapshot.insert(0, 'date_changement', today)
+
+    if os.path.exists(history_path):
+        history_df = pd.read_csv(history_path)
+        last_state = (
+            history_df.sort_values('date_changement')
+            .groupby('plage')['etat_sanitaire']
+            .last()
+        )
+        is_new = snapshot.apply(
+            lambda row: last_state.get(row['plage']) != row['etat_sanitaire'], axis=1
+        )
+        new_rows = snapshot[is_new]
+        combined = pd.concat([history_df, new_rows], ignore_index=True)
+    else:
+        combined = snapshot
+
+    combined = combined.sort_values(['date_changement', 'plage']).reset_index(drop=True)
+    combined.to_csv(history_path, index=False)
+    print(f"Historique du résumé mis à jour dans '{history_path}' ({len(combined)} changements d'état).")
+
 
 def run_update():
     """
@@ -18,6 +66,7 @@ def run_update():
     resume_path = os.path.join(output_dir, 'resume.csv')
     resume_df.to_csv(resume_path, index=False)
     print(f"Résumé sauvegardé dans '{resume_path}'.")
+    append_resume_history(resume_df, output_dir)
 
     # Récupérer les détails (avec gestion d'erreur si PDF indisponible)
     try:
@@ -25,10 +74,11 @@ def run_update():
         if details_df is not None:
             # Nettoyage : supprimer les lignes où le site est manquant (évite la ligne vide après l'entête)
             details_df = details_df.dropna(subset=['site'])
-            
+
             details_path = os.path.join(output_dir, 'details.csv')
             details_df.to_csv(details_path, index=False)
             print(f"Détails sauvegardés dans '{details_path}'.")
+            append_details_history(details_df, output_dir)
         else:
             print("⚠️  PDF indisponible : impossible de récupérer les détails.")
             print("Le fichier resume.csv a été généré avec succès.")
