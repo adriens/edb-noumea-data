@@ -889,6 +889,7 @@ PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-07-02,07:
 PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-07-02,07:35,98.0,10.0,P18057,Face escalier d'accès
 PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2026-07-02,07:50,10.0,10.0,P18060,anse de la pointe (milieu)
 PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-07-02,08:20,30.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18060, anse de la pointe (milieu)",2026-07-02 00:00:00,07:50,10.0,10.0,P18060,anse de la pointe (milieu)
 PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-07-06,07:53,197.0,74.0,P18050,Face allée centrale Mirage plaza
 PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-07-06,07:57,63.0,20.0,P18141,Face la Guinche
 PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-07-06,08:06,85.0,10.0,P18053,Face Fun Beach (milieu de plage)
@@ -913,6 +914,7 @@ PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-07-09,08:35,63.0
 PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-07-09,08:38,20.0,10.0,P18058,Face piscine Royal Tera Hotel
 PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2026-07-09,08:48,148.0,10.0,P18061,anse de l'école de voile (milieu)
 PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-07-09,09:12,175.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18061, anse de l'école de voile (milieu)",2026-07-09 00:00:00,08:48,148.0,10.0,P18061,anse de l'école de voile (milieu)
 PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-07-15,07:05,63.0,10.0,P18050,Face allée centrale Mirage plaza
 PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-07-15,07:10,161.0,10.0,P18141,Face la Guinche
 PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-07-15,07:15,52.0,10.0,P18053,Face Fun Beach (milieu de plage)
@@ -926,6 +928,19 @@ PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-07-15,08:15,253.0,122.0,P
 PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-07-15,08:20,884.0,300.0,P18032,Face bout de piste aérodrome
 PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-07-15,08:25,199.0,74.0,P18043,Face Les Hélices
 PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-07-15,09:00,98.0,10.0,P18048,Face entrée du Kuendu Beach
+PLAGE DE LA BAIE DES CITRONS,"P18050, Face allée centrale Mirage plaza",2026-07-15 00:00:00,07:05,63.0,10.0,P18050,Face allée centrale Mirage plaza
+PLAGE DE LA BAIE DES CITRONS,"P18141, Face la Guinche",2026-07-15 00:00:00,07:10,161.0,10.0,P18141,Face la Guinche
+PLAGE DE L'ANSE VATA,"P18053, Face Fun Beach (milieu de plage)",2026-07-15 00:00:00,07:15,52.0,10.0,P18053,Face Fun Beach (milieu de plage)
+PLAGE DE L'ANSE VATA,"P18054, Face Burger king",2026-07-15 00:00:00,07:20,85.0,10.0,P18054,Face Burger king
+PLAGE DE L'ANSE VATA,"P18055, Face Communauté du Pacifique",2026-07-15 00:00:00,07:25,135.0,10.0,P18055,Face Communauté du Pacifique
+PLAGE DE L'ANSE VATA,"P18056, Face Nouvata Park hotel",2026-07-15 00:00:00,07:30,243.0,20.0,P18056,Face Nouvata Park hotel
+PLAGE DE LA POINTE MAGNIN,"P18057, Face escalier d'accès",2026-07-15 00:00:00,07:35,84.0,10.0,P18057,Face escalier d'accès
+PLAGE DE LA POINTE MAGNIN,"P18058, Face piscine Royal Tera Hotel",2026-07-15 00:00:00,07:40,121.0,10.0,P18058,Face piscine Royal Tera Hotel
+PLAGE DE LA PROMENADE PIERRE VERNIER,"P18059, anse des Hobie Cats (milieu)",2026-07-15 00:00:00,07:55,121.0,10.0,P18059,anse des Hobie Cats (milieu)
+PLAGE DE MAGENTA,"P18031, Face douche Lions Club",2026-07-15 00:00:00,08:15,253.0,122.0,P18031,Face douche Lions Club
+PLAGE DE MAGENTA,"P18032, Face bout de piste aérodrome",2026-07-15 00:00:00,08:20,884.0,300.0,P18032,Face bout de piste aérodrome
+PLAGE DE MAGENTA,"P18043, Face Les Hélices",2026-07-15 00:00:00,08:25,199.0,74.0,P18043,Face Les Hélices
+PLAGE DU KUENDU BEACH,"P18048, Face entrée du Kuendu Beach",2026-07-15 00:00:00,09:00,98.0,10.0,P18048,Face entrée du Kuendu Beach
 Nom du site de baignade,Point de prélèvement,,Heure duprélèvement,,,Point de prélèvement,
 Nom du site de baignade,Point de prélèvement,,coli,,,Point de prélèvement,
 PLAGE DE LA POINTE MAGNIN,,,,,,,
