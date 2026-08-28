@@ -69,6 +69,11 @@ def run_update():
 
     # Récupérer le résumé
     resume_df = get_water_quality()
+    if resume_df is None:
+        raise RuntimeError(
+            "Impossible de récupérer le résumé de la qualité des eaux de baignade "
+            "(site indisponible ou requête en échec). Voir les logs ci-dessus pour le détail."
+        )
     resume_path = os.path.join(output_dir, 'resume.csv')
     resume_df.to_csv(resume_path, index=False)
     print(f"Résumé sauvegardé dans '{resume_path}'.")
